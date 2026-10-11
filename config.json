@@ -1,0 +1,94 @@
+{
+  "regions": {
+    "OUT_FIGHT_REGION": [
+      655,
+      961,
+      31,
+      29
+    ],
+    "IN_FIGHT_REGION": [
+      1218,
+      958,
+      166,
+      49
+    ],
+    "LVL_REGION": [
+      836,
+      693,
+      239,
+      81
+    ],
+    "LVL_REGION_FALLBACK": [
+      862,
+      534,
+      197,
+      77
+    ],
+    "JOIN_REGION": [
+      8,
+      492,
+      36,
+      39
+    ],
+    "SPECTATOR_LIST_REGION": [
+      404,
+      192,
+      1025,
+      41
+    ]
+  },
+  "clicks": {
+    "RESTART_CLICK_POSITIONS": [
+      [
+        1898,
+        10
+      ],
+      [
+        293,
+        450
+      ],
+      [
+        1034,
+        568
+      ]
+    ],
+    "RESTART_DUNGEON_CLICK_POSITIONS": [
+      [
+        874,
+        371
+      ],
+      [
+        1111,
+        418
+      ],
+      [
+        582,
+        329
+      ],
+      [
+        836,
+        391
+      ],
+      [
+        1030,
+        441
+      ],
+      [
+        1030,
+        441
+      ]
+    ],
+    "JOIN_CLICK_POSITIONS": [
+      [
+        138,
+        534
+      ]
+    ],
+    "SPECTATOR_BUTTON_CLICK": [
+      [
+        94,
+        35
+      ]
+    ]
+  }
+}
